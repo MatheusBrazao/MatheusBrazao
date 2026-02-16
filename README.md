@@ -1,15 +1,10 @@
 <h1 align="center">👋 Olá, eu sou Matheus Brazão!</h1>
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
   💻 Desenvolvedor em formação | 🎮 Gamer | 🔧 Hardware Enthusiast
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## 🧠 Sobre mim
 
@@ -56,11 +51,15 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=matheusbrazao&show_icons=true&theme=tokyonight&cache_seconds=86400"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrazao&layout=compact&theme=tokyonight&cache_seconds=86400"
+  />
 </p>
 
 ---
