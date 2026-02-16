@@ -13,7 +13,7 @@ jobs:
       - name: Generate Cyberpunk SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: SEU_USUARIO
+          github_user_name: matheusbrazao
           outputs: |
             dist/cyberpunk.svg?palette=github-dark
             &color_snake=#8A2BE2
