@@ -5,8 +5,6 @@
   💻 Desenvolvedor em formação | 🎮 Gamer | 🔧 Hardware Enthusiast
 </p>
 
-## 🌃 Cyberpunk Skyline
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusBrazao/MatheusBrazao/main/dist/skyline.svg" />
 </p>
