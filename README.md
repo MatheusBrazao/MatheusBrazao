@@ -70,9 +70,9 @@
 ## 🎮 Conteúdo & Contato
 
 <p>
-  📧 Email: seuemail@email.com <br>
-  💼 LinkedIn: https://www.linkedin.com/in/seu-perfil <br>
-  🎥 YouTube (Games): link do seu canal <br>
+  📧 Email: matheusbrazao14@gmail.com <br>
+  💼 LinkedIn: (https://www.linkedin.com/in/matheus-brazao-594996218) <br>
+  🎥 YouTube (Games): https://youtube.com/@vtteus <br>
   🌐 Portfólio: em construção
 </p>
 
