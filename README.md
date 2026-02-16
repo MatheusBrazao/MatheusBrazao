@@ -5,6 +5,12 @@
   💻 Desenvolvedor em formação | 🎮 Gamer | 🔧 Hardware Enthusiast
 </p>
 
+## 🌃 Cyberpunk Skyline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/dist/skyline.svg" />
+</p>
+
 
 ## 🧠 Sobre mim
 
@@ -72,9 +78,6 @@
   🎥 YouTube (Games): link do seu canal <br>
   🌐 Portfólio: em construção
 </p>
-
-![Cyberpunk Commit Animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/cyberpunk.svg)
----
 
 ⭐️ <b>Obrigado por visitar meu perfil!</b>  
 🚀 <i>Aprender, praticar e evoluir todos os dias.</i>
