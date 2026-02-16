@@ -74,6 +74,7 @@
   🌐 Portfólio: em construção
 </p>
 
+![Cyberpunk Commit Animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/cyberpunk.svg)
 ---
 
 ⭐️ <b>Obrigado por visitar meu perfil!</b>  
