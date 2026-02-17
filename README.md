@@ -53,17 +53,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=matheusbrazao&show_icons=true&theme=tokyonight&cache_seconds=86400"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-brazao&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrazao&layout=compact&theme=tokyonight&cache_seconds=86400"
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-brazao&layout=compact&theme=tokyonight)
 
 ---
 
