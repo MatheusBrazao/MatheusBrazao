@@ -53,9 +53,17 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-brazao&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusBrazao&show_icons=true&theme=tokyonight&hide_border=true" 
+  />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-brazao&layout=compact&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=MatheusBrazao&theme=tokyonight&hide_border=true" 
+  />
+</p>
 
 ---
 
